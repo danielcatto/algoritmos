@@ -13,6 +13,9 @@ int main(){
     if (resultado == 0){
         cout << numero << " é multiplo de dois\n";
     }
+    else{
+        cout << numero << " não é multiplo de dois\n";
+    }
 
 
 }

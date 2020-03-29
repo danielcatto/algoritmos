@@ -13,5 +13,8 @@ int main(){
     if (idade >= 16){
         cout << "Você pode votar nas próximas eleições! :D\n";
     }
+    else{
+        cout << "Sua idade nao permite que você vote na proxima eleiçao \n";
+    }
 
 }
